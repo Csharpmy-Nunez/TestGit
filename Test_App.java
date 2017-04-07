@@ -7,7 +7,7 @@ public class Test_App {
                 sum += i;   
             }
         }
-        System.out.println(sum);
+        System.out.println("This is the sum of all multiples of 3 and 5: " + sum);
     }
     
 }
